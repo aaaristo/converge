@@ -1,0 +1,32 @@
+{
+  "name": "crdt",
+  "version": "0.0.0",
+  "description": "Convergent Replicated Data Types",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaaristo/crdt"
+  },
+  "keywords": [
+    "crdt",
+    "replication",
+    "distributed",
+    "data",
+    "types"
+  ],
+  "author": "aaaristo",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/aaaristo/crdt/issues"
+  },
+  "homepage": "https://github.com/aaaristo/crdt",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1"
+  }
+}
