@@ -1,7 +1,7 @@
 {
   "name": "converge",
   "version": "0.0.0",
-  "description": "Convergent Replicated Data Types",
+  "description": "A collection of Convergent Replicated Data Types",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

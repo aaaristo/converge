@@ -1,4 +1,4 @@
-crdt
-====
+converge
+========
 
-Convergent Replicated Data Types
+A collection of Convergent Replicated Data Types
